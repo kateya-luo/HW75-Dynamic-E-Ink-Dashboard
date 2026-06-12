@@ -80,8 +80,8 @@ pyinstaller --clean --noconfirm .\host\HW75信息看板-FOCUS天气版.spec
 
 ## License
 
-项目自有代码采用 MIT License。Zephyr、ZMK、LibreHardwareMonitor 及其他第三方依赖遵循各自许可证。
-感谢各位大佬
-ZMK大佬的优化 https://github.com/xingrz/zmk-config_helloword_hw-75
-稚晖君大佬的开源 https://github.com/peng-zhihui/HelloWord-Keyboard
-不知名大佬的电脑状态代码 https://github.com/oshi/oshi/issues/2695
+-项目自有代码采用 MIT License。Zephyr、ZMK、LibreHardwareMonitor 及其他第三方依赖遵循各自许可证。
+-感谢各位大佬
+-ZMK大佬的优化 https://github.com/xingrz/zmk-config_helloword_hw-75
+-稚晖君大佬的开源 https://github.com/peng-zhihui/HelloWord-Keyboard
+-不知名大佬的电脑状态代码 https://github.com/oshi/oshi/issues/2695
