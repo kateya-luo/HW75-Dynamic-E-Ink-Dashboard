@@ -1,10 +1,15 @@
 # HW75 Dynamic E-Ink Dashboard
 
+## 功能简述
 为 HW75 Dynamic 扩展模块制作的双屏信息看板：电子墨水屏负责完整信息展示，OLED 负责三档位置指示，力反馈旋钮则像实体拨钮一样在三个页面之间切换。
 
 ![界面总览](docs/images/ui-overview.png)
 
-![OLED 三档选择器](docs/images/oled-selector.png)
+## 效果演示
+
+
+https://github.com/user-attachments/assets/2adea623-e592-4e62-a7af-a70b38c2f355
+
 
 ## 功能亮点
 
@@ -35,7 +40,10 @@
 1. 在 [Releases](./release) 中选择与硬件版本对应的 A 或 B 固件。
 2. 将 `.uf2` 文件刷入 HW75。
 3. 运行 `release/client/HW75-Dashboard.exe`。
-4. 在客户端设置中填写高德 Web 服务 Key、城市和 Adcode。
+4. 在客户端设置中填写高德 Web 服务 Key、城市和 Adcode
+  高德天气API（免费）： https://lbs.amap.com/api/webservice/guide/api-advanced/weatherinfo
+<img width="1789" height="848" alt="截图_20260612160508" src="https://github.com/user-attachments/assets/04a194ad-273e-4de0-9999-9e233c56c345" />
+
 
 首次启用 CPU 温度采集时，Windows 会请求一次管理员权限，用于安装温度采集计划任务。之后登录 Windows 即可静默运行。
 
