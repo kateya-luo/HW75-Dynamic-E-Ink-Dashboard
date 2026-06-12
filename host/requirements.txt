@@ -1,0 +1,6 @@
+hidapi>=0.14,<1
+psutil>=5.9,<8
+requests>=2.31,<3
+Pillow>=10,<13
+pystray>=0.19,<1
+wmi>=1.5.1; platform_system == "Windows"

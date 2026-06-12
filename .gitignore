@@ -1,0 +1,25 @@
+# Toolchains and upstream dependencies
+.tools/
+firmware/zephyr/
+firmware/zmk/
+firmware/modules/
+
+# Build output
+firmware/build-*/
+host/build/
+host/dist/
+host/__pycache__/
+host/temperature_helper/bin/
+host/temperature_helper/obj/
+host/temperature_helper/publish*/
+*.pyc
+
+# Secrets and local settings
+host/config.json
+e-ink-clock-settings.json
+.env
+
+# Temporary files
+*.log
+*.tmp
+*.zip

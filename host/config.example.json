@@ -1,0 +1,9 @@
+{
+  "serial_port": "",
+  "baud_rate": 115200,
+  "city": "杭州",
+  "city_adcode": "330106",
+  "amap_key": "请填写高德Web服务KEY",
+  "pc_refresh_seconds": 30,
+  "weather_refresh_minutes": 20
+}
