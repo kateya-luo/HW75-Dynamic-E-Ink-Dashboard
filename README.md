@@ -4,7 +4,8 @@
 ## 功能简述
 为 HW75 Dynamic 扩展模块制作的双屏信息看板：电子墨水屏负责完整信息展示，OLED 负责三档位置指示，力反馈旋钮则像实体拨钮一样在三个页面之间切换。
 
-![界面总览](docs/images/ui-overview.png)
+<img width="1365" height="749" alt="截图_20260612172333" src="https://github.com/user-attachments/assets/ccb150c6-7551-41fa-a320-f57ba49f80e6" />
+
 
 ## 效果演示
 
