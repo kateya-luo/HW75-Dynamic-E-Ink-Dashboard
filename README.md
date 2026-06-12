@@ -1,4 +1,5 @@
 # HW75 Dynamic E-Ink Dashboard
+<img width="1467" height="1216" alt="截图_20260612172243" src="https://github.com/user-attachments/assets/4f5492e6-9261-42b6-b379-4e09a900f484" />
 
 ## 功能简述
 为 HW75 Dynamic 扩展模块制作的双屏信息看板：电子墨水屏负责完整信息展示，OLED 负责三档位置指示，力反馈旋钮则像实体拨钮一样在三个页面之间切换。
@@ -80,3 +81,7 @@ pyinstaller --clean --noconfirm .\host\HW75信息看板-FOCUS天气版.spec
 ## License
 
 项目自有代码采用 MIT License。Zephyr、ZMK、LibreHardwareMonitor 及其他第三方依赖遵循各自许可证。
+感谢各位大佬
+https://github.com/xingrz/zmk-config_helloword_hw-75
+https://github.com/peng-zhihui/HelloWord-Keyboard
+https://github.com/oshi/oshi/issues/2695
