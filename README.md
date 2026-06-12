@@ -36,6 +36,11 @@ https://github.com/user-attachments/assets/2adea623-e592-4e62-a7af-a70b38c2f355
 
 从滚轮模式切回 INFO 时，会回到天气时钟和 100° 中间档。OLED 自动息屏不会改变当前档位。
 
+## 烧录演示
+从 Releases 下载最新版本的固件
+按住扩展模块的右键 (两颗圆形按钮中靠近右侧的一颗) 重新插拔 USB，此时系统中会出现一个名为 DYNAMICBOOT 的虚拟 U 盘
+将固件文件 (.uf2 格式) 复制到虚拟 U 盘中，稍等片刻即可更新完成
+
 ## 快速使用
 
 1. 在 [Releases](./release) 中选择与硬件版本对应的 A 或 B 固件。
